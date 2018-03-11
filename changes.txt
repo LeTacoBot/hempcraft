@@ -1,0 +1,26 @@
+This is the change file. Edit it with a new entry every time you edit.
+Use this format:
+
+Name: Date
+Version (major(large changes).minor(medium changes).build(little stuff))
+------
+Changes
+
+========================================================================
+Bry-Z: 1/28/75
+V. 1.0.0
+-----
+Original version.
+========================================================================
+LeTacoBot: 1/29/75
+V. 1.1.0
+-----
+Graphics entirely redone.
+========================================================================
+LeTacoBot: 1/30/75
+V. 1.2.0
+-----
+Added hempatic tools and hemp rope.
+Changed salad to require group:wood to craft, now heals 2 hearts instead
+of 1.
+========================================================================
